@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt-vercel-backend-scoped",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.56.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.0.7",
+    "typescript": "^5.6.2"
+  }
+}
